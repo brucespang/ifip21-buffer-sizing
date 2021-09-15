@@ -1,0 +1,22 @@
+[
+  {
+    "table_name":"pipe.SwitchEgress.wred.sender_ports",
+    "data":{
+
+    },
+    "action":"SwitchEgress.wred.set_sender_packet",
+    "key":{
+      "hdr.mirror.original_ingress_port":180
+    }
+  },
+  {
+    "table_name":"pipe.SwitchEgress.wred.sender_ports",
+    "data":{
+
+    },
+    "action":"SwitchEgress.wred.set_sender_packet",
+    "key":{
+      "hdr.mirror.original_ingress_port":183
+    }
+  }
+]

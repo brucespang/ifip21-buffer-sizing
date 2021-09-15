@@ -1,0 +1,8 @@
+ucli
+pm
+port-add -/- 10G NONE
+an-set -/- 2
+port-enb -/-
+exit
+bfrt_python /home/bspang/ifip21-buffer-sizing/bfrt_python/setup.py
+exit

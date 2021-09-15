@@ -1,0 +1,37 @@
+.ipynb_checkpoints
+.vagrant
+
+# P4 development
+p4src/tofino
+p4src/tofino2
+p4src/config.log
+p4src/config.status
+p4src/libtool
+p4src/ptf.log
+p4src/ptf.pcap
+p4src/stamp-h1
+p4src/tofino2pd
+p4src/tofino3/
+p4src/tofino3pd
+p4src/tofinopd
+p4src/zlog-cfg-cur
+p4src/tools/
+p4src/Makefile
+tofino
+tofinopd
+tofino2
+tofino2pd
+tofino3
+tofino3pd
+pcap_output
+stamp-h1
+
+# postcard collector compilation
+src/postcard/collector
+*.dSYM
+
+# Gunk
+*.pyc
+*.log
+*.pcap
+**/__pycache__/*

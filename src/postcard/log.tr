@@ -1,0 +1,3 @@
+194954.071313: postcard: switch_id=0 egress_port=2 ingress_port=0 ipv4_src_addr=192.168.0.1 ipv4_dst_addr=192.168.0.2 src_port=1234 dst_port=80 seq_no=0 ack_no=0 postcard_timestamp=0 queue_depth_cells=0 was_dropped=1
+194954.726201: postcard: switch_id=0 egress_port=2 ingress_port=0 ipv4_src_addr=192.168.0.1 ipv4_dst_addr=192.168.0.2 src_port=1234 dst_port=80 seq_no=0 ack_no=0 postcard_timestamp=0 queue_depth_cells=0 was_dropped=1
+194955.19109: postcard: switch_id=0 egress_port=2 ingress_port=0 ipv4_src_addr=192.168.0.1 ipv4_dst_addr=192.168.0.2 src_port=1234 dst_port=80 seq_no=0 ack_no=0 postcard_timestamp=0 queue_depth_cells=0 was_dropped=1

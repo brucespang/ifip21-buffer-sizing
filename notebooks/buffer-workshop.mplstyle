@@ -1,0 +1,11 @@
+axes.titlesize: 8
+font.size: 8
+axes.labelsize: 8
+legend.fontsize: 8
+xtick.labelsize: 8
+ytick.labelsize: 8
+lines.linewidth: 2
+figure.dpi: 300
+grid.color: 888888
+grid.linestyle: dashed
+grid.linewidth: 0.5

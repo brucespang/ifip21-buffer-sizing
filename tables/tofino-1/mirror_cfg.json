@@ -1,0 +1,31 @@
+[
+  {
+    "table_name":"mirror.cfg",
+    "data":{
+      "$direction":"EGRESS",
+      "$ucast_egress_port":180,
+      "$ucast_egress_port_valid":true,
+      "$session_enable":true,
+      "$max_pkt_len":85,
+
+      "$egress_port_queue":0,
+      "$ingress_cos":0,
+      "$packet_color":"GREEN",
+      "$mcast_l1_xid":0,
+      "$mcast_l2_xid":0,
+      "$mcast_grp_a":0,
+      "$mcast_grp_a_valid":false,
+      "$mcast_grp_b":0,
+      "$mcast_grp_b_valid":false,
+      "$level1_mcast_hash":0,
+      "$level2_mcast_hash":0,
+      "$mcast_rid":0,
+      "$icos_for_copy_to_cpu":0,
+      "$copy_to_cpu":false
+    },
+    "action":"$normal",
+    "key":{
+      "$sid":1
+    }
+  }
+]

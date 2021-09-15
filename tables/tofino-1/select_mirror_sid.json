@@ -1,0 +1,22 @@
+[
+  {
+    "table_name":"pipe.SwitchEgress.queue_mirrorer.select_mirror_sid",
+    "data":{
+      "eg_ses":1
+    },
+    "action":"SwitchEgress.queue_mirrorer.set_mirror_sid",
+    "key":{
+      "hdr.mirror.original_ingress_port":180
+    }
+  },
+  {
+    "table_name":"pipe.SwitchEgress.queue_mirrorer.select_mirror_sid",
+    "data":{
+      "eg_ses":1
+    },
+    "action":"SwitchEgress.queue_mirrorer.set_mirror_sid",
+    "key":{
+      "hdr.mirror.original_ingress_port":183
+    }
+  }
+]

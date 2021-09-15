@@ -1,0 +1,11 @@
+[ 
+   { 
+      "table_name":"pipe.SwitchEgress.stats.qdepth_hist",
+      "data":{ 
+        "deq_qdepth_start":0,
+        "deq_qdepth_end":2
+      },
+      "action":"SwitchEgress.stats.just_count",
+      "key":{}
+   },
+]

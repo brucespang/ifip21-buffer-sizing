@@ -1,0 +1,32 @@
+[ 
+   { 
+      "table_name":"pipe.SwitchIngress.forward",
+      "data":{ 
+         "port":189
+      },
+      "action":"SwitchIngress.hit",
+      "key":{ 
+         "hdr.ethernet.dst_addr":416029158909
+      }
+   },
+   { 
+      "table_name":"pipe.SwitchIngress.forward",
+      "data":{ 
+         "port":180
+      },
+      "action":"SwitchIngress.hit",
+      "key":{ 
+         "hdr.ethernet.dst_addr":14038009250220
+      }
+   },
+   { 
+      "table_name":"pipe.SwitchIngress.forward",
+      "data":{ 
+         "port":183
+      },
+      "action":"SwitchIngress.hit",
+      "key":{ 
+         "hdr.ethernet.dst_addr":14038009250221
+      }
+   }
+]
