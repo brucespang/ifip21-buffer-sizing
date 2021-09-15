@@ -1,4 +1,4 @@
-# Tofino TCP Traces
+# Updating the Theory of Buffer Sizing
 
 These are a set of packet-by-packet traces of two Linux hosts sending data using TCP. We collected these traces by writing some code for [a Tofino](https://www.intel.com/content/www/us/en/products/network-io/programmable-ethernet-switch/tofino-2-series.html), which is included in this repository. These measurements were collected for our IFIP Performance 2021 Paper "Updating the Theory of Buffer Sizing."
 
